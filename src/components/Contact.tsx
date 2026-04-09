@@ -7,13 +7,13 @@ export default function Contact() {
       </p>
       <div className="flex gap-4 justify-center flex-wrap">
         <a
-          href="mailto:your@email.com"
+          href="mailto:armentaa.steven@gmail.com"
           className="px-7 py-3 bg-white text-black font-semibold rounded-full hover:bg-gray-200 transition-colors"
         >
           Email Me
         </a>
         <a
-          href="https://github.com/"
+          href="https://github.com/stevenarmenta1"
           target="_blank"
           rel="noopener noreferrer"
           className="px-7 py-3 border border-white/20 text-white rounded-full hover:bg-white/10 transition-colors"
@@ -21,7 +21,7 @@ export default function Contact() {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/in/"
+          href="https://www.linkedin.com/in/stevenarmenta/"
           target="_blank"
           rel="noopener noreferrer"
           className="px-7 py-3 border border-white/20 text-white rounded-full hover:bg-white/10 transition-colors"
